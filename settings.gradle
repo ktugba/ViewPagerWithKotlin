@@ -1,0 +1,2 @@
+rootProject.name='ViewPagerWithKotlin'
+include ':app'
